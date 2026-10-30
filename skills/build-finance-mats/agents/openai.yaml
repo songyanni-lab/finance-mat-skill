@@ -1,0 +1,4 @@
+interface:
+  display_name: "金融垫板制作与优化"
+  short_description: "依据垫板制作规范新建或优化金融沟通材料，突出清晰结论、有效论据与图示"
+  default_prompt: "使用 $build-finance-mats，根据主题和使用场景制作垫板，或优化我提供的存量页面。"
